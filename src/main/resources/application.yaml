@@ -1,0 +1,4 @@
+LINE_LONG: "------------------------------------------------"
+HINT_MESSAGE: "Для подсказки нажмите английскую букву h"
+MAX_ATTEMPTS_DIFFICULTY_CATEGORY: 3
+HIDDEN_LETTER: "_"
